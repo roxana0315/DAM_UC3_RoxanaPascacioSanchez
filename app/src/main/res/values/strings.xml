@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DAM_UC3_RoxanaPascacioSanchez</string>
+    <string name="buttonRegister">botonregistrar</string>
+    <string name="botonregister">REGISTRAR</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtnombres" />
+    <string name="txtapellidos" />
+    <string name="txtcorreo" />
+    <string name="txtcontraseña" />
+
+    <string-array name="spinner">
+        <item>C</item>
+        <item>C++</item>
+    </string-array>
+</resources>
